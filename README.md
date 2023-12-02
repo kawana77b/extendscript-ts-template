@@ -1,4 +1,4 @@
-# ae-extend-script-ts-template
+# extend-script-ts-template
 
 Template for writing [Extend Script](https://extendscript.docsforadobe.dev/index.html) in Typescript for [After Effects](https://ae-scripting.docsforadobe.dev/).
 This template has only been tested on Windows.
