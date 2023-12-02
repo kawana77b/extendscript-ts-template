@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES3",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "noLib": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    // NOTE: Typescript ES3 support will be discontinued with 5.5
+    // This option suppresses warnings:
+    "ignoreDeprecations": "5.0"
+  },
+  "include": ["src/**/*", "src/types"]
+}
