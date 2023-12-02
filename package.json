@@ -1,0 +1,27 @@
+{
+  "name": "extend-script-ts-template",
+  "version": "0.5.0",
+  "description": "Template for writing Extend Script in Typescript for After Effects",
+  "main": "dist/index.js",
+  "private": true,
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w",
+    "lint": "eslint src/**/*.ts"
+  },
+  "keywords": [],
+  "author": "shimarisu_121",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "5.3.2",
+    "@rollup/plugin-typescript": "11.1.5",
+    "@typescript-eslint/eslint-plugin": "6.13.1",
+    "@typescript-eslint/parser": "6.13.1",
+    "tslib": "2.6.2",
+    "eslint": "^8.54.0",
+    "prettier": "^3.1.0",
+    "rollup": "4.6.1",
+    "types-for-adobe": "^7.0.12"
+  },
+  "dependencies": {}
+}

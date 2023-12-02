@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "extendscript-debug",
+      "request": "launch",
+      "name": "Launch Script in ExtendScript Engine",
+      "script": "${workspaceFolder}/dist/index.js"
+    }
+  ]
+}
