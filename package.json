@@ -1,5 +1,5 @@
 {
-  "name": "ae-extend-script-ts-template",
+  "name": "extend-script-ts-template",
   "version": "0.5.0",
   "description": "Template for writing Extend Script in Typescript for After Effects",
   "main": "index.js",
