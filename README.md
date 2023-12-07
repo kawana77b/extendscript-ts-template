@@ -15,6 +15,9 @@ You can find attempts to do this in several repositories. This is my template.
 > [!NOTE]
 > The compilation of TypeScript ES3 is deprecated in TypeScript 5.5, so the `package.json` for dependent versions is fixed.
 
+This repository is described in the following article (Japanese only):  
+[After Effects用のScriptをTypescriptで開発する (zenn)](https://zenn.dev/shimarisu_121/articles/2b9d67fad9c637)
+
 ## Environment
 
 - Windows
